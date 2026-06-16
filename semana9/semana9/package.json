@@ -1,0 +1,21 @@
+{
+  "name": "semana9",
+  "version": "1.0.0",
+  "description": "Comprender cómo funciona un servidor para aplicaciones Node.js, conocer los componentes básicos de un entorno servidor, aprender a ejecutar servicios de forma controlada y aplicar medidas básicas de seguridad y estabilidad para que una plataforma digital pueda funcionar de manera continua.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdgaviria98/semana9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cdgaviria98/semana9/issues"
+  },
+  "homepage": "https://github.com/cdgaviria98/semana9#readme"
+}

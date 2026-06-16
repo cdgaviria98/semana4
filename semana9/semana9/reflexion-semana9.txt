@@ -1,0 +1,16 @@
+La estabilidad y seguridad de los servidores en plataformas 
+comunitarias son factores críticos que trascienden el ámbito técnico, 
+impactando directamente la confianza digital y la cohesión social. 
+
+Cuando una aplicación se cae o sufre vulnerabilidades en un entorno real, 
+no solo falla el software, sino que se interrumpe el canal de comunicación 
+y auditoría de los ciudadanos, sembrando una percepción de ineficacia institucional. 
+
+Las pruebas en entornos locales o controlados son insuficientes para predecir el 
+comportamiento ante la concurrencia masiva o ataques imprevistos. Por ende, la 
+implementación de prácticas operativas rigurosas como el monitoreo proactivo, 
+la validación estricta de datos en memoria y la gestión automatizada de procesos 
+de rescate (como PM2) garantizan la continuidad operativa. Un servidor resiliente 
+transforma la infraestructura tecnológica en un puente confiable y permanente, 
+protegiendo los datos recolectados y asegurando que la participación democrática y 
+comunitaria sea constante y segura en entornos de producción.
